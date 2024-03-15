@@ -1,0 +1,6267 @@
+Level: 1
+[g][x][c][c][x][b][c][c][x][m]
+[k][c][c][m][c][g][x][m][c][c]
+[m][x][x][c][c][m][c][x][x][c]
+[g][c][x][g][c][x][x][c][x][c]
+[m][x][x][x][k][x][x][c][c][c]
+[c][x][w][m][x][g][x][c][c][c]
+[x][c][c][c][m][c][c][x][c][m]
+[c][c][k][m][c][x][c][x][c][x]
+[k][m][m][c][c][x][m][x][x][c]
+[m][c][x][c][x][x][m][x][x][k]
+
+Mario will move right
+
+Level: 1
+Position: (7, 1)
+Power Level: 0
+Mario beat a Koopa
+Lives: 3
+Coins: 0
+Mario will move down
+
+Level: 1
+Position: (7, 2)
+Power Level: 0
+Mario ate a mushroom
+Lives: 3
+Coins: 0
+Mario will move left
+
+Level: 1
+Position: (8, 2)
+Power Level: 1
+Mario ate a mushroom
+Lives: 3
+Coins: 0
+Mario will move down
+
+Level: 1
+Position: (8, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 1
+Mario will move right
+
+Level: 1
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 1
+Mario will move right
+
+Level: 1
+Position: (8, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 1
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move down
+
+Level: 1
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move up
+
+Level: 1
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move right
+
+Level: 1
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 1
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 1
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move up
+
+Level: 1
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move right
+
+Level: 1
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move down
+
+Level: 1
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move up
+
+Level: 1
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 1
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 1
+Position: (7, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 1
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 1
+Position: (7, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 4
+Mario will move left
+
+Level: 1
+Position: (6, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move up
+
+Level: 1
+Position: (6, 0)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 5
+Mario will move up
+
+Level: 1
+Position: (5, 0)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 5
+Mario will move left
+
+Level: 1
+Position: (4, 0)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 6
+Mario will move right
+
+Level: 1
+Position: (4, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 1
+Position: (4, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 1
+Position: (4, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 1
+Position: (4, 8)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 8
+Mario will move right
+
+Level: 1
+Position: (4, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move left
+
+Level: 1
+Position: (4, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move left
+
+Level: 1
+Position: (4, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move right
+
+Level: 1
+Position: (4, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move down
+
+Level: 1
+Position: (4, 7)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 1
+Position: (5, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 1
+Position: (5, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 1
+Position: (4, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 1
+Position: (3, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 1
+Position: (4, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 1
+Position: (5, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 1
+Position: (4, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 1
+Position: (4, 5)
+Power Level: 2
+Mario beat a Koopa
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 1
+Position: (4, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 1
+Position: (5, 4)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 1
+Position: (6, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 10
+Mario will move down
+
+Level: 1
+Position: (6, 3)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 10
+Mario will move up
+
+Level: 1
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 10
+Mario will move up
+
+Level: 1
+Position: (6, 3)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 10
+Mario will move left
+
+Level: 1
+Position: (5, 3)
+Power Level: 2
+Mario hit a warp pipe and moves on
+Lives: 3
+Coins: 10
+
+
+Level: 1 complete
+
+Level: 2
+[c][m][x][c][g][c][c][m][x][x]
+[x][x][m][k][c][x][c][g][x][c]
+[g][x][c][x][m][c][c][c][c][x]
+[x][c][c][x][x][x][m][c][k][c]
+[c][c][m][c][x][c][c][c][x][m]
+[c][x][x][x][c][c][x][m][m][m]
+[w][x][x][c][x][c][c][m][x][c]
+[x][x][g][g][x][x][m][c][c][c]
+[c][m][x][x][c][x][b][m][c][c]
+[k][m][c][c][x][c][c][x][x][x]
+
+Mario will move left
+
+Level: 2
+Position: (2, 8)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (2, 7)
+Power Level: 0
+Mario beat a Goomba
+Lives: 3
+Coins: 1
+Mario will move left
+
+Level: 2
+Position: (1, 7)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 2
+Mario will move down
+
+Level: 2
+Position: (1, 6)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 2
+Position: (2, 6)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 2
+Position: (1, 6)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 2
+Position: (1, 7)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 2
+Position: (1, 8)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move down
+
+Level: 2
+Position: (1, 7)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 2
+Position: (2, 7)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 2
+Position: (1, 7)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 2
+Position: (1, 8)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 2
+Position: (1, 7)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 2
+Position: (1, 6)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 4
+Mario will move right
+
+Level: 2
+Position: (0, 6)
+Power Level: 0
+Mario ate a mushroom
+Lives: 3
+Coins: 4
+Mario will move down
+
+Level: 2
+Position: (0, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move up
+
+Level: 2
+Position: (1, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move left
+
+Level: 2
+Position: (0, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move left
+
+Level: 2
+Position: (0, 6)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 5
+Mario will move right
+
+Level: 2
+Position: (0, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 5
+Mario will move up
+
+Level: 2
+Position: (0, 6)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 2
+Position: (9, 6)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 7
+Mario will move up
+
+Level: 2
+Position: (9, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move up
+
+Level: 2
+Position: (8, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move right
+
+Level: 2
+Position: (7, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 4)
+Power Level: 1
+Mario beat a Goomba
+Lives: 3
+Coins: 7
+Mario will move right
+
+Level: 2
+Position: (7, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 3)
+Power Level: 1
+Mario beat a Goomba
+Lives: 3
+Coins: 7
+Mario will move down
+
+Level: 2
+Position: (7, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (8, 2)
+Power Level: 1
+Mario ate a mushroom
+Lives: 3
+Coins: 7
+Mario will move up
+
+Level: 2
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move up
+
+Level: 2
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move down
+
+Level: 2
+Position: (6, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move down
+
+Level: 2
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move up
+
+Level: 2
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move left
+
+Level: 2
+Position: (7, 0)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 8
+Mario will move down
+
+Level: 2
+Position: (7, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 2
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 2
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 2
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 2
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 2
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 2
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 2
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 9
+Mario will move up
+
+Level: 2
+Position: (9, 7)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 9
+Mario will move right
+
+Level: 2
+Position: (8, 7)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 10
+Mario will move right
+
+Level: 2
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 10
+Mario will move right
+
+Level: 2
+Position: (8, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 11
+Mario will move right
+
+Level: 2
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 11
+Mario will move up
+
+Level: 2
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 11
+Mario will move right
+
+Level: 2
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 11
+Mario will move right
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 11
+Mario will move up
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 12
+Mario will move left
+
+Level: 2
+Position: (6, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 12
+Mario will move up
+
+Level: 2
+Position: (6, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 12
+Mario will move right
+
+Level: 2
+Position: (5, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 12
+Mario will move right
+
+Level: 2
+Position: (5, 3)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 13
+Mario will move down
+
+Level: 2
+Position: (5, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move down
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move left
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move up
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move right
+
+Level: 2
+Position: (6, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move right
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 14
+Mario will move down
+
+Level: 2
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move up
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move left
+
+Level: 2
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move down
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move right
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move up
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move left
+
+Level: 2
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move down
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move right
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move up
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move down
+
+Level: 2
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move right
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 14
+Mario will move up
+
+Level: 2
+Position: (7, 6)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 15
+Mario will move left
+
+Level: 2
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move down
+
+Level: 2
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move left
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move left
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move down
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 16
+Mario will move right
+
+Level: 2
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move up
+
+Level: 2
+Position: (8, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move down
+
+Level: 2
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move left
+
+Level: 2
+Position: (8, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move up
+
+Level: 2
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move left
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move down
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move left
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move right
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move down
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 2
+Position: (9, 3)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 18
+Mario will move left
+
+Level: 2
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 18
+Mario will move left
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 18
+Mario will move down
+
+Level: 2
+Position: (0, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 18
+Mario will move down
+
+Level: 2
+Position: (1, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 18
+Mario will move right
+
+Level: 2
+Position: (2, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 2
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 2
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (1, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 2
+Position: (2, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 2
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 2
+Position: (1, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (1, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 1)
+Power Level: 2
+Mario ate a mushroom
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 3)
+Power Level: 2
+Mario beat a Goomba
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (9, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (6, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (7, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (6, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (8, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 2
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 2
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 2
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move up
+
+Level: 2
+Position: (8, 8)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 1
+Mario will move down
+
+Level: 2
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 1
+Mario will move right
+
+Level: 2
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 1
+Mario will move right
+
+Level: 2
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (7, 0)
+Power Level: 2
+Mario hit a warp pipe and moves on
+Lives: 4
+Coins: 1
+
+
+Level: 2 complete
+
+Level: 3
+[c][x][c][x][c][c][g][c][m][g]
+[c][x][m][x][c][c][k][c][x][m]
+[c][g][k][c][c][c][x][m][k][c]
+[c][x][g][c][k][c][b][c][x][c]
+[x][x][x][m][c][x][x][m][g][m]
+[c][x][c][x][x][c][m][c][k][m]
+[c][c][c][x][x][x][x][x][x][x]
+[m][x][c][x][x][x][x][m][m][c]
+[c][x][c][c][x][m][c][c][x][c]
+[x][x][m][c][x][c][x][m][c][c]
+
+Mario will move down
+
+Level: 3
+Position: (0, 3)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 0
+Mario will move up
+
+Level: 3
+Position: (1, 3)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 0
+Mario will move down
+
+Level: 3
+Position: (0, 3)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 0
+Mario will move left
+
+Level: 3
+Position: (1, 3)
+Power Level: 0
+Mario ate a mushroom
+Lives: 3
+Coins: 0
+Mario will move down
+
+Level: 3
+Position: (1, 2)
+Power Level: 1
+Mario beat a Koopa
+Lives: 3
+Coins: 0
+Mario will move right
+
+Level: 3
+Position: (2, 2)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move right
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (2, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (3, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (2, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (2, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (1, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (1, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (1, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (1, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (1, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (1, 2)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (0, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (0, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (9, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (8, 1)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 5
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 5
+Mario will move left
+
+Level: 3
+Position: (8, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 5
+Mario will move left
+
+Level: 3
+Position: (8, 0)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 3
+Position: (8, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 6
+Mario will move right
+
+Level: 3
+Position: (8, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 3
+Position: (8, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 6
+Mario will move left
+
+Level: 3
+Position: (8, 8)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 7
+Mario will move right
+
+Level: 3
+Position: (8, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 7
+Mario will move down
+
+Level: 3
+Position: (8, 8)
+Power Level: 1
+Mario collected a coin
+Lives: 3
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (9, 8)
+Power Level: 1
+Mario ate a mushroom
+Lives: 3
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (7, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 9
+Mario will move left
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 9
+Mario will move down
+
+Level: 3
+Position: (8, 5)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 10
+Mario will move down
+
+Level: 3
+Position: (9, 5)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 11
+Mario will move down
+
+Level: 3
+Position: (0, 5)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 12
+Mario will move left
+
+Level: 3
+Position: (1, 5)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 13
+Mario will move down
+
+Level: 3
+Position: (1, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move up
+
+Level: 3
+Position: (2, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 13
+Mario will move up
+
+Level: 3
+Position: (1, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (0, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 14
+Mario will move up
+
+Level: 3
+Position: (0, 3)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 16
+Mario will move left
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 16
+Mario will move up
+
+Level: 3
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move right
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 16
+Mario will move right
+
+Level: 3
+Position: (6, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (6, 0)
+Power Level: 2
+Mario ate a mushroom
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 18
+Mario will move up
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 3
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move right
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move up
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move left
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 3
+Coins: 19
+Mario will move down
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move right
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 0
+Mario will move down
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario lost to a Goomba
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 3
+Position: (0, 9)
+Power Level: 1
+Mario ate a mushroom
+Lives: 4
+Coins: 0
+Mario will move left
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 1
+Mario will move down
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario ate a mushroom
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (2, 7)
+Power Level: 2
+Mario beat a Koopa
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (2, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (2, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (2, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (2, 6)
+Power Level: 2
+Mario beat a Koopa
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario beat a Goomba
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (8, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move down
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move right
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move left
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 2
+Mario will move up
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (5, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario ate a mushroom
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (5, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (5, 7)
+Power Level: 2
+Mario beat a Koopa
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (5, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (7, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (7, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (5, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (5, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (5, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario ate a mushroom
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move up
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move down
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move right
+
+Level: 3
+Position: (0, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 3
+Mario will move left
+
+Level: 3
+Position: (0, 1)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move down
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move down
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (0, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move down
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move down
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move down
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move left
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move right
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 4
+Mario will move up
+
+Level: 3
+Position: (7, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 5
+Mario will move up
+
+Level: 3
+Position: (6, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 6
+Mario will move down
+
+Level: 3
+Position: (5, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 6
+Mario will move right
+
+Level: 3
+Position: (6, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 6
+Mario will move right
+
+Level: 3
+Position: (6, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 6
+Mario will move up
+
+Level: 3
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 6
+Mario will move up
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 7
+Mario will move down
+
+Level: 3
+Position: (4, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 7
+Mario will move down
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 7
+Mario will move up
+
+Level: 3
+Position: (6, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 7
+Mario will move left
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 7
+Mario will move right
+
+Level: 3
+Position: (5, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 7
+Mario will move right
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario collected a coin
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (5, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (5, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (4, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (5, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (5, 3)
+Power Level: 2
+Mario ate a mushroom
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (4, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (3, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (1, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move right
+
+Level: 3
+Position: (2, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (2, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move right
+
+Level: 3
+Position: (3, 3)
+Power Level: 2
+Mario lost to a Koopa
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (3, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (4, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (3, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (3, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (2, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move right
+
+Level: 3
+Position: (3, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (3, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (3, 3)
+Power Level: 1
+Mario beat a Goomba
+Lives: 4
+Coins: 8
+Mario will move down
+
+Level: 3
+Position: (3, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (4, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move left
+
+Level: 3
+Position: (4, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 8
+Mario will move up
+
+Level: 3
+Position: (4, 0)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 9
+Mario will move down
+
+Level: 3
+Position: (3, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 9
+Mario will move down
+
+Level: 3
+Position: (4, 0)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 10
+Mario will move up
+
+Level: 3
+Position: (5, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 10
+Mario will move up
+
+Level: 3
+Position: (4, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 10
+Mario will move down
+
+Level: 3
+Position: (3, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 10
+Mario will move up
+
+Level: 3
+Position: (4, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 10
+Mario will move left
+
+Level: 3
+Position: (3, 0)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 11
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 12
+Mario will move left
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move down
+
+Level: 3
+Position: (2, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move right
+
+Level: 3
+Position: (3, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move left
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move right
+
+Level: 3
+Position: (2, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move down
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 12
+Mario will move right
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 13
+Mario will move up
+
+Level: 3
+Position: (2, 0)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 14
+Mario will move down
+
+Level: 3
+Position: (1, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move down
+
+Level: 3
+Position: (2, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (3, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move down
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move down
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (3, 9)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move up
+
+Level: 3
+Position: (3, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (2, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (2, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 14
+Mario will move left
+
+Level: 3
+Position: (2, 6)
+Power Level: 1
+Mario collected a coin
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 5)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (2, 6)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (1, 6)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (1, 7)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (1, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 8)
+Power Level: 1
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (2, 9)
+Power Level: 1
+Mario ate a mushroom
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (1, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (2, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 4
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 0)
+Power Level: 2
+Mario beat a Goomba
+Mario gained a life by defeating 7 enemies
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (2, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (1, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (1, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (2, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (1, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (9, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (0, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (9, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (8, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (6, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 5)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (7, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (5, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (5, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (6, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (7, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (5, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (6, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (6, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (6, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (8, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move right
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move down
+
+Level: 3
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move up
+
+Level: 3
+Position: (7, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 15
+Mario will move left
+
+Level: 3
+Position: (6, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 5
+Coins: 16
+Mario will move down
+
+Level: 3
+Position: (6, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 16
+Mario will move left
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 16
+Mario will move right
+
+Level: 3
+Position: (7, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 16
+Mario will move down
+
+Level: 3
+Position: (7, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 16
+Mario will move right
+
+Level: 3
+Position: (8, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 16
+Mario will move right
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario collected a coin
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (8, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (9, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (1, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (9, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (9, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (8, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (9, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 3)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 2)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 1)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (7, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (7, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (8, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (9, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (8, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (8, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (9, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (9, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (9, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (2, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (2, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (3, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (3, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (2, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (2, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move up
+
+Level: 3
+Position: (1, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 9)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (0, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (0, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move right
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (1, 8)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move left
+
+Level: 3
+Position: (1, 7)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (1, 6)
+Power Level: 2
+Mario landed on an empty space
+Lives: 5
+Coins: 17
+Mario will move down
+
+Level: 3
+Position: (2, 6)
+Power Level: 2
+Mario beat bowser
+Lives: 5
+Coins: 17
+
+
+Level: 3 complete
+
+Mario saved Peach
+It took 777 moves

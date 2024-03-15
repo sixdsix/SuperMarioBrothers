@@ -1,0 +1,436 @@
+Level: 1
+[g][m][k][g][g]
+[k][k][m][w][g]
+[k][g][m][k][m]
+[x][c][x][x][x]
+[c][x][b][x][k]
+
+Mario will move right
+
+Level: 1
+Position: (4, 4)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (4, 0)
+Power Level: 0
+Mario landed on an empty space
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (3, 0)
+Power Level: 0
+Mario beat a Koopa
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (2, 0)
+Power Level: 0
+Mario lost to a Koopa
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (1, 0)
+Power Level: 0
+Mario beat a Goomba
+Lives: 2
+Coins: 1
+Mario will move right
+
+Level: 1
+Position: (1, 4)
+Power Level: 0
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (1, 0)
+Power Level: 0
+Mario beat a Goomba
+Lives: 2
+Coins: 1
+Mario will move down
+
+Level: 1
+Position: (0, 0)
+Power Level: 0
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move right
+
+Level: 1
+Position: (1, 0)
+Power Level: 0
+Mario beat a Koopa
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (1, 1)
+Power Level: 0
+Mario ate a mushroom
+Lives: 2
+Coins: 1
+Mario will move down
+
+Level: 1
+Position: (0, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (1, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (0, 1)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move down
+
+Level: 1
+Position: (0, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (1, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move down
+
+Level: 1
+Position: (0, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move down
+
+Level: 1
+Position: (1, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (2, 0)
+Power Level: 1
+Mario ate a mushroom
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (2, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (1, 4)
+Power Level: 2
+Mario beat a Goomba
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 1
+Position: (0, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move right
+
+Level: 1
+Position: (4, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (4, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (4, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 2
+Coins: 1
+Mario will move left
+
+Level: 1
+Position: (4, 3)
+Power Level: 2
+Mario beat bowser
+Lives: 2
+Coins: 1
+
+
+Level: 1 complete
+
+Level: 2
+[x][k][g][x][k]
+[k][g][k][w][x]
+[g][c][m][g][m]
+[k][x][m][x][m]
+[c][x][b][k][g]
+
+Mario will move right
+
+Level: 2
+Position: (4, 4)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (4, 0)
+Power Level: 0
+Mario lost to a Koopa
+Lives: 2
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (3, 0)
+Power Level: 0
+Mario lost to a Goomba
+Lives: 1
+Coins: 1
+Mario will move left
+
+Level: 2
+Position: (2, 0)
+Power Level: 0
+Mario ate a mushroom
+Lives: 1
+Coins: 1
+Mario will move left
+
+Level: 2
+Position: (2, 4)
+Power Level: 1
+Mario beat a Goomba
+Lives: 1
+Coins: 1
+Mario will move right
+
+Level: 2
+Position: (2, 3)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (2, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move down
+
+Level: 2
+Position: (1, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move down
+
+Level: 2
+Position: (2, 4)
+Power Level: 1
+Mario ate a mushroom
+Lives: 1
+Coins: 1
+Mario will move right
+
+Level: 2
+Position: (3, 4)
+Power Level: 2
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (3, 0)
+Power Level: 2
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (2, 0)
+Power Level: 2
+Mario lost to a Koopa
+Lives: 1
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (1, 0)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move left
+
+Level: 2
+Position: (0, 0)
+Power Level: 1
+Mario beat a Koopa
+Lives: 1
+Coins: 1
+Mario will move up
+
+Level: 2
+Position: (0, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move down
+
+Level: 2
+Position: (4, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move down
+
+Level: 2
+Position: (0, 4)
+Power Level: 1
+Mario landed on an empty space
+Lives: 1
+Coins: 1
+Mario will move left
+
+Level: 2
+Position: (1, 4)
+Power Level: 1
+Mario hit a warp pipe and moves on
+Lives: 1
+Coins: 1
+
+
+Level: 2 complete
+
+Level: 3
+[x][g][x][c][k]
+[k][g][x][m][x]
+[w][k][k][m][m]
+[g][k][m][x][g]
+[k][b][c][g][x]
+
+Mario will move left
+
+Level: 3
+Position: (4, 3)
+Power Level: 0
+Mario collected a coin
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 3
+Position: (4, 2)
+Power Level: 0
+Mario ate a mushroom
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 3
+Position: (3, 2)
+Power Level: 1
+Mario beat a Koopa
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 3
+Position: (2, 2)
+Power Level: 1
+Mario landed on an empty space
+Lives: 3
+Coins: 1
+Mario will move left
+
+Level: 3
+Position: (1, 2)
+Power Level: 1
+Mario beat a Goomba
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 3
+Position: (1, 1)
+Power Level: 1
+Mario beat a Goomba
+Lives: 3
+Coins: 1
+Mario will move up
+
+Level: 3
+Position: (0, 1)
+Power Level: 1
+Mario lost to bowser
+Mario lost to bowser
+Lives: -1
+Coins: 1
+
+
+Mario Lost Level: 3
+
+GAME OVER
+It took 50 moves
